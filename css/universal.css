@@ -1,0 +1,29 @@
+body {
+    background-color: #690fb5;
+    margin: 1% 7.5% 0 7.5% !important;
+}
+
+.nav-image {
+    max-width: 100px;
+    border-radius: 50%;
+    padding-top: 5px;
+}
+
+.navbar {
+    font-size: 1.5rem;
+    text-align: right;
+    line-height: 2.2;
+    padding: 0 !important;
+    transition: 0.8s;
+    position: fixed !important;
+    width: 100%;
+    z-index: 15;
+}
+
+.navbar-bg {
+    background-color: #4a0b7f;
+}
+
+.nav-item .nav-link {
+    color: #690fb5 !important;
+}

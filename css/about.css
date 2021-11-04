@@ -1,0 +1,42 @@
+.first-section {
+    background-color: white;
+    text-align: center;
+    padding: 10% 0 5%;
+}
+
+.second-section {
+    text-align: center;
+    background-color: white;
+}
+
+.carousel-slide {
+    display: flex !important;
+    align-items: center;
+    justify-content: center;
+}
+
+.pfp-image {
+    float: left;
+    border-radius: 50%;
+    max-width: 100px;
+}
+
+#builderCarousel {
+    max-width: 60%;
+    margin: 50px auto;
+}
+
+#artistCarousel {
+    max-width: 100%;
+    margin: 50px auto;
+}
+
+#coderCarousel {
+    max-width: 100%;
+    margin: 50px auto;
+}
+
+#staffCarousel {
+    max-width: 60%;
+    margin: 50px auto;
+}
