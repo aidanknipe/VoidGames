@@ -18,11 +18,9 @@ body {
     position: fixed !important;
     width: 100%;
     z-index: 15;
-}
-
-.navbar-bg {
     background-color: #4a0b7f;
 }
+
 
 .nav-item .nav-link {
     color: #690fb5 !important;
