@@ -18,10 +18,10 @@ body {
     position: fixed !important;
     width: 100%;
     z-index: 15;
-    background-color: #4a0b7f;
+    background-color: transparent;
 }
 
 
 .nav-item .nav-link {
-    color: #690fb5 !important;
+    color: black !important;
 }

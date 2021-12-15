@@ -1,14 +1,19 @@
 .first-section {
     background-color: white;
     text-align: center;
-    padding: 10% 0 5%;
+    padding: 10% 0 5%; 
+    
 }
-
+h1 {
+    font-size: 40px;
+}
 .second-section {
     text-align: center;
     background-color: white;
 }
-
+h2 {
+    font-size: 30px;
+}
 .carousel-slide {
     display: flex !important;
     align-items: center;
@@ -19,6 +24,7 @@
     float: left;
     border-radius: 50%;
     max-width: 100px;
+    
 }
 
 #builderCarousel {
