@@ -2,7 +2,9 @@
     background-color: white;
     text-align: center;
     padding: 10% 0 5%; 
-    
+    outline: auto;
+    outline-width: 3px;
+    outline-color: grey;
 }
 h1 {
     font-size: 40px;
@@ -10,6 +12,7 @@ h1 {
 .second-section {
     text-align: center;
     background-color: white;
+    padding: 5%;
 }
 h2 {
     font-size: 30px;
@@ -24,7 +27,6 @@ h2 {
     float: left;
     border-radius: 50%;
     max-width: 100px;
-    
 }
 
 #builderCarousel {
